@@ -1,11 +1,19 @@
 {
   "name": "@aneojkeee/ajs",
   "version": "1.0.0",
-  "description": "",
+  "description": "# Домашнее задание к лекции «Платформы: браузер vs Node.js»",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneojkeee/ajs-hw.git"
+  },
+  "author": "aneojkeee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneojkeee/ajs-hw/issues"
+  },
+  "homepage": "https://github.com/aneojkeee/ajs-hw#readme"
 }
